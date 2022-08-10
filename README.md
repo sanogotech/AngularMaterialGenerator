@@ -1,4 +1,4 @@
-# AngularMaterialGenerator
+# Angular Material Generator
 Generator  Angular Material   Crud
 
 ## Install
