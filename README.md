@@ -8,3 +8,4 @@ npm install generator-angular-material-crud
 ```
 
 ## Docs
+- https://www.npmjs.com/package/generator-angular-material-crud
